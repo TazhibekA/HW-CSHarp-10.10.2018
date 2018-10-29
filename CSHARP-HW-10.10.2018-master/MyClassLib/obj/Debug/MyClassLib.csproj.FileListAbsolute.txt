@@ -1,0 +1,6 @@
+C:\Users\aknur\Desktop\CSHARP-HW-10.10.2018-master\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\aknur\Desktop\CSHARP-HW-10.10.2018-master\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\aknur\Desktop\CSHARP-HW-10.10.2018-master\MyClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+C:\Users\aknur\Desktop\CSHARP-HW-10.10.2018-master\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\aknur\Desktop\CSHARP-HW-10.10.2018-master\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\aknur\Desktop\CSHARP-HW-10.10.2018-master\MyClassLib\obj\Debug\MyClassLib.pdb
